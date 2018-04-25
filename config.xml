@@ -5,10 +5,10 @@
  id ="com.phonegap.app1"
  version ="1.0.0">
  
- <name> app2 Datos del Alumno </name>
+ <name> app3 Dia Mundial de la bicicleta </name>
  
  <description>
- Aplicacion que muestra los datos del alumno
+ Aplicacion que muestra el dia mundial de la bicicleta
  </description>
  
  <author href="http://build.phonegap.com" email="quiquesilvestre18@gmail.com">
